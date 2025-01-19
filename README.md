@@ -134,7 +134,7 @@ So basically the last word is what makes the key unique.
 
 
 After generating all the bits of the checksum, they are simply concatenated to the binary of the words without the checksum and with that you have access to the addresses and values.
-
+NOTE: Image for illustrative purposes only to demonstrate an Electrum wallet (Source: Electrum Wiki)
 
 ![Exemple Electrum wallet](https://upload.wikimedia.org/wikipedia/commons/f/fc/Capture-Electrum.png)
 
